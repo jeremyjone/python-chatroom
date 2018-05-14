@@ -1,6 +1,6 @@
 # 项目简介
 简易聊天室
-Author: by @jeremyjone(张维)
+Author: by @jeremyjone
 Date: 2018-5-10
 项目会保存在: https://github.com/jeremyjone
 
