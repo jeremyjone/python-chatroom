@@ -1,8 +1,8 @@
 # 项目简介
 简易聊天室
-Author: by @jeremyjone
-Date: 2018-5-10
-项目会保存在: https://github.com/jeremyjone
+- Author: by @jeremyjone
+- Date: 2018-5-10
+- 项目会保存在: https://github.com/jeremyjone
 
 
 # 功能
@@ -46,10 +46,10 @@ first_time_run_server_create_database.py 1
 
 # 文件目录
 ```
-│   first_time_run_server_create_database.py
-│   README.md
-│   run_client.py
-│   run_server.py
+├─README.md
+├─first_time_run_server_create_database.py
+├─run_client.py
+├─run_server.py
 │
 ├─client
 │   __init__.py
